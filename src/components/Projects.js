@@ -18,7 +18,7 @@ const [listProjects] = useState([
     des: 'A React application where you can search for recipes, view the results, and click to watch a YouTube video. You can also mark recipes as favorites, which will be displayed in the favorites tab.',
     mission: 'To practice front-end development with React and learn how to fetch data through APIs.',
     language: 'HTML5, CSS3, React JS, javaScript,...',
-    images: '/project2.PNG',
+    images: '/project2.png',
     link : 'https://recipe-finder-pink.vercel.app/'
   },
   {
@@ -26,7 +26,7 @@ const [listProjects] = useState([
     des: 'Learning frontend development with React and using KaboomJS to make a game for the first time. KaboomJS has prebuilt functions for gravity, backgrounds, and collisions.',
     mission: 'To practice front-end development with React and learn to use the KaboomJS library for game design.',
     language: 'HTML5, CSS3, React JS, javaScript,KaboomJs,...',
-    images: '/project3.PNG',
+    images: '/project3.png',
     link : 'https://github.com/jay02124/flappy-bird-master'
   },
 

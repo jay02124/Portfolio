@@ -10,7 +10,7 @@ const [listExperience] = useState([
     des: 'This project has functionality like admin can add/delete/modify the technical staff and faculty staff and also can see the analytics of queries. Users can enter email and verify then they can make any query, then the support staff can either reply his query or forward to the respective staff assign to that saction and he can reply his query,user can also livetrack his query.',
     mission: 'Learn about AngularJS and .NET in the first 2 weeks through Training, them made a Fullstack Project from scratch',
     language: 'HTML5, CSS3, AngularJS, javaScript, BootStrap, MS SQL Server for database',
-    images: '/Experience.PNG',
+    images: '/Experience.png',
     link : 'https://drive.google.com/drive/folders/18hg-Rj2lHKuX9t3t5CxYHQK6hlVoVZlB?usp=drive_link'
   }
   
