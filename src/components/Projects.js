@@ -10,7 +10,7 @@ const [listProjects] = useState([
     des: "Learning to create a React application that fetches data through the Bayut API from RapidAPI. The project involves integrating the API to retrieve real estate data, such as rental homes and properties for sale, and displaying it within the application. This process will help you understand how to make API calls, handle responses, and present the data in a user-friendly manner within a React app.",
     mission: 'Learn ReactJS by creating a dynamic web application that fetches and displays data from the Bayut API via RapidAPI. This project covers React fundamentals and API integration.',
     language: 'HTML5, CSS3, React JS,javaScript',
-    images: '/project1.PNG',
+    images: '/project1.png',
     link : 'https://real-estate-wine-two.vercel.app/'
   },
   {
