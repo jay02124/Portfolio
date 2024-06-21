@@ -37,7 +37,7 @@ return (
                 {/* 30 */}
                 Full-stack developer proficient in backend and frontend development, driven by a passion for learning and innovation. Skilled in creating meticulously crafted, fully functional code for diverse web platforms. Seeking an opportunity to recognizes my true potential and provides me with sufficient avenues for professional growth            </div>
             
-            <a href="/democv.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
+            <a href="/CV.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
                 Download My CV
             </a>
             <div className="links"  ref={(el) => el && divs.current.push(el)}>

@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react' 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faHtml5, faCss3, faJs, faMicrosoft, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faReact, faHtml5, faCss3, faJs, faMicrosoft, faPython, faNode } from '@fortawesome/free-brands-svg-icons';
 import { faServer } from '@fortawesome/free-solid-svg-icons';
 import CustomHook from './CustomHook';
 
@@ -33,22 +33,34 @@ const [listSkills] = useState([
     icon: faReact
   },
   {
-    name: '.NET',
-    proficiency: '⚪⚪⚪⚪⚫',
-    des:'',
-    icon: faMicrosoft
-  },
-  {
     name: 'MS SQL Server',
     proficiency: '⚪⚪⚪⚪⚫',
     des:'',
     icon: faServer
   },
   {
+    name: '.NET',
+    proficiency: '⚪⚪⚪⚫⚫',
+    des:'',
+    icon: faMicrosoft
+  },
+  {
     name: 'Python',
-    proficiency: '⚪⚪⚪⚪⚫',
+    proficiency: '⚪⚪⚪⚫⚫',
     des:'',
     icon: faPython
+  },
+  {
+    name: 'MongoDB',
+    proficiency: '⚪⚪⚪⚫⚫',
+    des:'',
+    icon: faServer
+  },
+  {
+    name: 'NodeJs',
+    proficiency: '⚪⚪⚪⚫⚫',
+    des:'',
+    icon: faNode
   }
 
 ]);

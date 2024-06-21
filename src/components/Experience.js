@@ -56,7 +56,7 @@ CustomHook(scrollTab, divs);
                   <div><FontAwesomeIcon icon={faLink} /></div>
                     <div>
                       <div className="des">
-                      <h4><a href={value.link} target="_">🔗Project link🔗</a></h4>
+                      <h4><a href={value.link} target="_blank">🔗Project link🔗</a></h4>
                         
                       </div>
                     </div>

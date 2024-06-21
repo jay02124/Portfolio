@@ -20,17 +20,6 @@ const [listcontacts] = useState([
     value: 'https://www.linkedin.com/in/jay-patel-21024d/',
     info: 'Jay Patel',
     icon: faLinkedin
-  },{
-    title: 'Github',
-    value: 'https://github.com/jay02124',
-    info: 'jay02124',
-    icon: faGithub
-  },
-{
-    title: 'LeetCode',
-    value: 'https://leetcode.com/u/jaynptl21/',
-    info: 'jaynptl21',
-    icon: faCode
   }
 ])
 const divs = useRef([]);
@@ -41,12 +30,12 @@ CustomHook(scrollTab, divs);
     <section className='contacts' ref={scrollTab}>
 
        <div className="title" ref={(el) => el && divs.current.push(el)}>
-        This is my Contacts
+        My Contacts
        </div>
        
        <div className="des" ref={(el) => el && divs.current.push(el)}>
         {/* 20 */}
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam perspiciatis quae veniam amet nesciunt voluptatibus quis consectetur consequatur quisquam harum.
+        
        </div>
        
        <div className="list"  ref={(el) => el && divs.current.push(el)}>
