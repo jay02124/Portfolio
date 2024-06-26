@@ -55,7 +55,7 @@ return (
         </div>
         <div className="avatar">
             <div className="card">
-                <img src="/avatar.jpg" alt="" />
+                <img src="/AVTAR1.png" alt="" />
                 <div className="info">
                     <div>Fullstack Developer</div>
                     <div>21/11</div>
