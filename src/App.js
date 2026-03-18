@@ -9,7 +9,7 @@ import Education from './components/Education'
 
 
 function App() {
-
+// test
   return (
     <main>
       <NavBar />
